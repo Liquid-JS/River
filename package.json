@@ -1,0 +1,27 @@
+{
+  "name": "@liquid-js/river",
+  "version": "0.0.0",
+  "description": "A promise-driven task system",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liquid-JS/River.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Liquid-JS/River/issues"
+  },
+  "homepage": "https://github.com/Liquid-JS/River#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.5",
+    "@types/vinyl-fs": "0.0.28",
+    "typescript": "^2.1.5"
+  },
+  "dependencies": {
+    "vinyl-fs": "^2.4.4"
+  }
+}
