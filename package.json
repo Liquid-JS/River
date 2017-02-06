@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/Liquid-JS/River/issues"
   },
+  "bin": {
+    "river": "./bin/river"
+  },
   "homepage": "https://github.com/Liquid-JS/River#readme",
   "devDependencies": {
     "@types/node": "^7.0.5",
